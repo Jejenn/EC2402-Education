@@ -1,0 +1,1135 @@
+﻿"COUNTRY","Country","SEX","Gender","REF_SECTOR","Reference sector","EDUCATION_LEV","Education level","YEAR","Year","Value","Flag Codes","Flags"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",201385,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",196609,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",194959,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",194239,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",192697,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",191966,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",194937,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",192055,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",195377,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",193116,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",189622,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",192093,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",191467,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",191108,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",190166,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",192488,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",191936,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",194035,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",394501,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",386231,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",387053,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",385706,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",383805,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",382132,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",387425,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",383991,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",389412,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",72975,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",78087,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",82495,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",82093,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",98646,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",106481,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",108528,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",114213,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",114342,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",54207,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",59700,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",63609,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",65996,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",80351,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",88433,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",94695,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",102987,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",99885,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",127182,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",137787,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",146104,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",148089,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",178997,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",194914,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",203223,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",217200,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",214227,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",120711,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",121664,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",126850,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",123274,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",120048,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",120456,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",126168,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",128526,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",131052,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",78693,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",79835,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",84574,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",82606,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",81534,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",82695,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",84654,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",86178,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",88140,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",199404,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",201499,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",211424,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",205880,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",201582,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",203151,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",210822,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",214704,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",219192,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",29514,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",29772,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",31018,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",33069,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",35624,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",36786,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",38406,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",39846,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",40242,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",23205,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",23646,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",24739,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",25746,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",27312,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",28008,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",29646,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",30753,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",30849,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",52719,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",53418,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",55757,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",58815,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",62936,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",64794,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",68052,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",70599,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",71091,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"o","Missing value"
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",5616,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",5664,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",5715,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"o","Missing value"
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",3999,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",4005,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",3777,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"o","Missing value"
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",9615,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",9669,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",9492,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",3186,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",3249,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",3416,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",3613,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",3767,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",3923,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",3660,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",3678,,
+"CAN","Canada","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",3552,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",3873,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",3942,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",4130,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",4154,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",4236,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",4325,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",4203,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",4224,,
+"CAN","Canada","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",3834,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",7059,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",7191,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",7546,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",7767,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",8003,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",8248,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",7863,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",7902,,
+"CAN","Canada","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",7386,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",50811,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",52550,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",53415,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",53509,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",54059,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",56191,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",50738,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",48184,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",49920,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",42972,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",43812,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",44706,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",43746,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",44791,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",44227,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",41195,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",38244,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",40027,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",93783,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",96362,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",98121,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",97255,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",98850,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",100418,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",91933,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",86428,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",89947,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",3152,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",3019,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",3050,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",3558,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",3830,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",4555,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",4441,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",4065,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",4661,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",2289,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",2365,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",2411,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",2690,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",2691,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",3299,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",3176,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",2842,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",3005,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",5441,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",5384,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",5461,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",6248,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",6521,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",7854,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",7617,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",6907,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",7666,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",20339,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",20882,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",22287,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",21618,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",22309,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",22494,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",22282,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",23163,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",22941,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",13330,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",13436,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",14711,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",14533,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",14166,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",15053,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",15322,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",16079,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",14976,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",33669,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",34318,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",36998,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",36151,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",36475,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",37547,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",37604,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",39242,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",37917,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",10402,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",10604,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",10727,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",10616,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",10538,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",11149,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",11708,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",13679,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",12533,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",6739,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",6943,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",7104,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",7290,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",7270,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",7223,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",7934,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",8795,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",7808,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",17141,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",17547,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",17831,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",17906,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",17808,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",18372,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",19642,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",22474,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",20341,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",435,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",440,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",413,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",461,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",409,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",495,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",444,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",451,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",441,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",258,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",303,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",350,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",303,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",314,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",320,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",390,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",399,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",415,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",693,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",743,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",763,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",764,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",723,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",815,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",834,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",850,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",856,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",961,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",1061,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",1052,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",1036,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",982,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",969,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",940,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",1010,,
+"FIN","Finland","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",859,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",938,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",952,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",948,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",973,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",871,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",896,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",854,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",891,,
+"FIN","Finland","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",784,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",1899,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",2013,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",2000,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",2009,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",1853,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",1865,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",1794,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",1901,,
+"FIN","Finland","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",1643,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",296602,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",300417,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",294194,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",294191,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",280068,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",272380,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",272295,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",240613,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",208953,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",338390,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",336373,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",325011,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",317222,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",306971,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",297448,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",299721,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",263074,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",231692,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",634992,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",636790,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",619205,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",611413,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",587039,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",569828,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",572016,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",503687,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",440645,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",107235,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",105072,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",101392,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",97753,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",93741,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",89384,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",85617,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",81468,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",78822,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",81652,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",81858,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",83967,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",82678,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",78347,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",78110,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",78879,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",79096,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",73592,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",188887,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",186930,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",185359,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",180431,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",172088,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",167494,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",164496,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",160564,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",152414,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",157915,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",162796,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",174421,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",180178,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",180773,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",174959,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",174689,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",178726,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",182278,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",167198,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",166648,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",176285,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",179110,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",179089,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",172220,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",169564,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",171411,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",173062,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",325113,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",329444,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",350706,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",359288,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",359862,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",347179,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",344253,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",350137,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",355340,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",41444,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",41122,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",40613,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",40823,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",42401,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",42281,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",42829,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",43621,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",42204,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",41035,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",41085,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",40035,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",39546,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",40074,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",39386,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",38500,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",38151,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",36604,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",82479,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",82207,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",80648,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",80369,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",82475,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",81667,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",81329,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",81772,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",78808,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",,"m","Missing value; data cannot exist"
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",,"m","Missing value; data cannot exist"
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",,"m","Missing value; data cannot exist"
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",4274,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",4533,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",4719,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",5014,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",5385,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",5552,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",5800,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",6198,,
+"KOR","Korea","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",6464,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",8351,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",8398,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",8358,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",8868,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",8931,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",9122,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",9508,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",9941,,
+"KOR","Korea","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",9956,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",12625,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",12931,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",13077,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",13882,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",14316,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",14674,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",15308,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",16139,,
+"KOR","Korea","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",16420,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",1067497,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",,"o","Missing value"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",,"o","Missing value"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",770395,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",761737,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",692147,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",673901,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",670653,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",707559,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",1009703,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",,"o","Missing value"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",,"o","Missing value"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",737106,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",728896,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",650766,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",633450,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",625458,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",654144,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",2077200,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",,"o","Missing value"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",,"o","Missing value"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",1507501,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",1490633,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",1342913,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",1307351,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",1296111,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",1361703,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",78063,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",44629,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",49511,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",58715,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",60578,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",67246,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",70612,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",66154,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",77799,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",50577,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",24793,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",35812,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",44188,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",44510,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",48253,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",51363,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",49216,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",57189,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",128640,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",69422,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",85323,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",102903,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",105088,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",115498,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",121975,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",115370,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",134988,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",226659,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",248158,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",224630,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",228629,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",236710,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",240598,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",248401,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",242553,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",257977,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",176023,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",195994,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",170006,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",171089,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",177526,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",178106,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",183419,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",180029,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",189811,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",402682,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",444152,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",394636,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",399718,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",414236,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",418704,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",431820,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",422582,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",447788,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",135052,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",136612,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",136416,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",136504,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",141158,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",151856,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",172569,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",169954,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",194438,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",99675,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",97156,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",97265,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",96653,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",95327,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",101813,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",111041,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",107858,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",123913,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",234727,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",233768,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",233681,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",233157,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",236485,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",253669,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",283610,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",277812,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",318351,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"k","Data included in another category"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"k","Data included in another category"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"k","Data included in another category"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"k","Data included in another category"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"k","Data included in another category"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"k","Data included in another category"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"k","Data included in another category"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"k","Data included in another category"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"k","Data included in another category"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",,"m","Missing value; data cannot exist"
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",12033,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",11757,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",12507,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",12647,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",13187,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",13744,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",14095,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",13631,,
+"GBR","United Kingdom","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",12291,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",13863,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",13263,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",14129,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",14719,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",14956,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",15725,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",15245,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",14810,,
+"GBR","United Kingdom","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",12779,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",25896,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",25020,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",26636,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",27366,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",28143,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",29469,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",29340,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",28441,,
+"GBR","United Kingdom","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",25070,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",121614,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",121233,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",123254,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",122947,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",122856,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",125919,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",127004,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",130999,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",133402,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",117104,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",117175,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",118447,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",117478,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",118787,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",122654,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",124702,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",127419,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",129289,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",238718,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",238408,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",241701,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",240425,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",241643,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",248573,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",251706,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",258418,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",262691,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",,"m","Missing value; data cannot exist"
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"m","Missing value; data cannot exist"
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"m","Missing value; data cannot exist"
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",,"m","Missing value; data cannot exist"
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",,"m","Missing value; data cannot exist"
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",,"m","Missing value; data cannot exist"
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",,"m","Missing value; data cannot exist"
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",,"m","Missing value; data cannot exist"
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",,"m","Missing value; data cannot exist"
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",35196,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",37515,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",43277,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",48212,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",46635,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",49656,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",47748,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",38979,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",52581,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",22540,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",25216,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",30481,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",32927,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",32313,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",34061,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",32008,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",23303,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",31819,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",57735,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",62731,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",73758,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",81138,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",78948,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",83718,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",79755,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",62282,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",84400,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",50363,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",53681,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",59780,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",60304,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",65244,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",63648,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",62476,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",49113,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",73271,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",42373,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",47068,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",50033,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",49601,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",52925,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",51622,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",49715,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",42585,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",57821,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",92736,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",100749,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",109812,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",109904,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",118169,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",115270,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",112191,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",91697,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",131092,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",13912,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",14940,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",15223,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",18794,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",22103,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",22663,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",25824,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",22393,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",30838,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",11238,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",12115,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",12181,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",14494,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",15789,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",17340,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",19331,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",17048,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",22142,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",25150,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",27055,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",27404,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",33288,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",37892,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",40003,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",45155,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",39440,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",52980,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",1373,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",1703,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",1522,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",1747,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",1779,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",1861,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",1965,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",515,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",2966,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",1288,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",1599,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",1367,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",1370,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",1481,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",1523,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",1535,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",373,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",2170,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",2661,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",3301,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",2889,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",3117,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",3260,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",3384,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",3499,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",887,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",5136,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",272,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",276,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",301,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",287,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",306,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",344,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",373,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",333,,
+"CHL","Chile","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",371,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",321,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",330,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",369,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",412,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",391,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",463,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",490,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",426,,
+"CHL","Chile","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",515,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",593,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",606,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",670,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",699,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",697,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",807,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",863,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",759,,
+"CHL","Chile","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",886,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",347942,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",342621,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",338946,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",353390,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",355232,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",353015,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",363760,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",348046,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",364663,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",290591,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",284153,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",286955,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",299598,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",308364,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",310598,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",324605,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",312204,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",324910,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2013","2013",638533,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2014","2014",626774,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2015","2015",625901,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2016","2016",652988,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2017","2017",663596,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2018","2018",663613,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2019","2019",688365,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2020","2020",660250,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_3","Upper secondary education","2021","2021",689573,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",4605,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"o","Missing value"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"o","Missing value"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",4295,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",3872,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",3587,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",3850,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",3621,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",3749,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",1268,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"o","Missing value"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"o","Missing value"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",1040,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",1018,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",909,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",962,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",1080,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",945,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2013","2013",5873,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2014","2014",,"o","Missing value"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2015","2015",,"o","Missing value"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2016","2016",5335,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2017","2017",4890,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2018","2018",4496,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2019","2019",4812,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2020","2020",4701,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_4","Post-secondary non-tertiary education","2021","2021",4694,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",59355,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",59824,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",60863,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",74290,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",80890,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",79367,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",86971,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",62103,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",80041,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",57714,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",55243,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",58229,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",64464,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",75651,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",74771,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",84146,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",62949,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",71349,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2013","2013",117069,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2014","2014",115067,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2015","2015",119092,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2016","2016",138754,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2017","2017",156541,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2018","2018",154138,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2019","2019",171117,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2020","2020",125052,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_5","Short-cycle tertiary education","2021","2021",151390,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",93958,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",97398,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",102200,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",112474,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",122370,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",133746,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",139463,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",133418,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",153336,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",67774,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",70499,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",76179,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",80157,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",86544,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",92760,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",95352,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",92097,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",107030,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2013","2013",161732,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2014","2014",167897,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2015","2015",178379,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2016","2016",192631,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2017","2017",208914,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2018","2018",226506,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2019","2019",234815,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2020","2020",225515,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_6","Bachelor’s or equivalent level","2021","2021",260366,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",40462,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",43070,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",43452,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",48174,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",54845,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",57299,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",57264,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",55670,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",63493,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",32197,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",33165,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",33349,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",37697,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",41297,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",43376,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",43181,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",42700,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",48798,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2013","2013",72659,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2014","2014",76235,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2015","2015",76801,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2016","2016",85871,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2017","2017",96142,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2018","2018",100675,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2019","2019",100445,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2020","2020",98370,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_7","Master’s or equivalent level","2021","2021",112291,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"m","Missing value; data cannot exist"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"m","Missing value; data cannot exist"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"m","Missing value; data cannot exist"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"m","Missing value; data cannot exist"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"m","Missing value; data cannot exist"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"m","Missing value; data cannot exist"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",,"m","Missing value; data cannot exist"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",,"m","Missing value; data cannot exist"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",,"m","Missing value; data cannot exist"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"m","Missing value; data cannot exist"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"m","Missing value; data cannot exist"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"m","Missing value; data cannot exist"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"m","Missing value; data cannot exist"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"m","Missing value; data cannot exist"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"m","Missing value; data cannot exist"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",,"m","Missing value; data cannot exist"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",,"m","Missing value; data cannot exist"
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",,"m","Missing value; data cannot exist"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2013","2013",,"m","Missing value; data cannot exist"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2014","2014",,"m","Missing value; data cannot exist"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2015","2015",,"m","Missing value; data cannot exist"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2016","2016",,"m","Missing value; data cannot exist"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2017","2017",,"m","Missing value; data cannot exist"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2018","2018",,"m","Missing value; data cannot exist"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2019","2019",,"m","Missing value; data cannot exist"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2020","2020",,"m","Missing value; data cannot exist"
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_746_756_766","Master’s or equivalent level, long first degree (at least 5 years)","2021","2021",,"m","Missing value; data cannot exist"
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",133,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",159,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",205,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",244,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",310,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",308,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",395,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",396,,
+"COL","Colombia","F","Female","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",355,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",197,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",249,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",261,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",356,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",460,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",495,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",566,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",590,,
+"COL","Colombia","M","Male","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",581,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2013","2013",330,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2014","2014",408,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2015","2015",466,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2016","2016",600,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2017","2017",770,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2018","2018",803,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2019","2019",961,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2020","2020",986,,
+"COL","Colombia","_T","Total","INST_T","All public and private educational institutions","ISCED11_8","Doctoral or equivalent level","2021","2021",936,,
